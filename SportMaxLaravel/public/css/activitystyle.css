@@ -1,0 +1,96 @@
+.sidebar-title{
+    font-size: 20px;
+//    font-family: "Microsoft JhengHei";
+    font-weight: 500;
+    color: #616161;
+    padding-left: 15%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.sidebar-option{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.sidebar-option a{
+    font-size: 19px;
+    font-family: "Microsoft JhengHei";
+    font-weight: 500;
+    color: #616161;
+    margin-left: 10px;
+}
+
+.sidebar-option a:hover{
+    color: #00bfa5;
+}
+
+.side-bar-option-next{
+    padding-left: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.side-bar-option-next a{
+    font-size: 17px;
+    font-family: "Microsoft JhengHei";
+    font-weight: 500;
+    color: #616161;
+    padding-left: 10px;
+}
+
+.side-bar-option-next a:hover{
+    color: #00bfa5;
+}
+
+.font-15px{
+    font-size: 15px!important;
+}
+
+.activity-title{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.activity-title i{
+    font-size: 36px;
+}
+
+.activity-title span{
+    color: #616161;
+    font-size: 17px;
+    font-family: "Microsoft JhengHei";
+    font-weight: 600;
+}
+
+.activity-title a{
+    color: #616161;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.activity-title a:hover{
+    color: #00bfa5;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.activity-content p{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.activity-btn{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.activity-btn a{
+    font-family: "Microsoft JhengHei";
+    font-size: 16px;
+    color: #004d40;
+}
+

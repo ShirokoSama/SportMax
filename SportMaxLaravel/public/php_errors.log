@@ -1,0 +1,76 @@
+[29-Nov-2016 13:31:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 13:31:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 14:45:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 14:45:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 14:57:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 14:57:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:12:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:12:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:13:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:13:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:16:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[29-Nov-2016 15:16:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[30-Nov-2016 02:15:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[30-Nov-2016 02:15:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[30-Nov-2016 06:19:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[30-Nov-2016 06:19:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 02:14:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 02:14:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 06:14:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 06:14:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 08:04:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 08:04:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[01-Dec-2016 08:21:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in E:\SportMax\app\Http\Controllers\FriendsInfoController.php on line 16
+[01-Dec-2016 11:12:40 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Object of class Illuminate\Support\Collection could not be converted to int' in E:\SportMax\app\Http\Controllers\DynamicController.php:33
+Stack trace:
+#0 E:\SportMax\app\Http\Controllers\DynamicController.php(33): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Object of class...', 'E:\\SportMax\\app...', 33, Array)
+#1 [internal function]: App\Http\Controllers\DynamicController->getDynamicPage(Object(Illuminate\Http\Request))
+#2 E:\SportMax\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(55): call_user_func_array(Array, Array)
+#3 E:\SportMax\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('getDynamicPage', Array)
+#4 E:\SportMax\vendor\laravel\framework\src\Illuminate\Routing\Route.php(190): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\DynamicController), 'getDynamicPage')
+#5 E:\SportMax\vend in E:\SportMax\app\Http\Controllers\DynamicController.php on line 33
+[01-Dec-2016 11:12:40 UTC] PHP Fatal error:  Unsupported operand types in E:\SportMax\app\Http\Controllers\DynamicController.php on line 33
+[02-Dec-2016 02:39:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 02:39:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 03:31:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 03:31:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 05:50:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 05:50:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 06:34:31 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\select() in E:\SportMax\app\Http\Controllers\ActivityController.php on line 49
+[02-Dec-2016 06:35:30 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\select() in E:\SportMax\app\Http\Controllers\ActivityController.php on line 49
+[02-Dec-2016 08:22:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[02-Dec-2016 08:22:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[05-Dec-2016 08:43:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_firebird.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0
+[05-Dec-2016 08:43:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './ext\php_pdo_oci.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown on line 0

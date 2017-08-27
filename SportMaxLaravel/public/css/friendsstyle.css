@@ -1,0 +1,136 @@
+.top-option{
+    margin-left: 13%;
+}
+
+.top-option a{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Microsoft JhengHei;
+    color: #616161;
+}
+
+.top-option a:hover{
+    color: #000000;
+    font-weight: 600;
+}
+
+.top-option i{
+    font-size: 30px;
+}
+
+.block-new{
+    margin-left: 10px;
+    color: #fff!important;
+    background-color: #26a69a;
+    border-radius: 5px;
+    font-size: 13px!important;
+    padding: 3px;
+}
+
+.friends-list li{
+    padding-top: 20px!important;
+    height: 130px!important;
+}
+
+.friend-head-pic{
+    width: 70px!important;
+    height: 70px!important;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.friend-name{
+    padding-left: 50px;
+    padding-top: 40px;
+    font-size: 17px!important;
+}
+
+.friend-detail{
+    padding-left: 50px;
+    color: #9e9e9e;
+}
+
+.friend-heart{
+    margin-top: 29px;
+    margin-right: 20px;
+}
+
+.friend-heart i{
+    font-size: 40px;
+    color: #e57373;
+}
+
+.friend-request li>a{
+    padding-left: 15px;
+}
+
+.friend-request li>p{
+    padding-left: 15px;
+    color: #9e9e9e;
+}
+
+.friend-request li>p{
+    padding-left: 15px;
+    color: #9e9e9e;
+}
+
+.friend-request li>p>i{
+    font-size: 30px;
+}
+
+.friend-request li>img{
+    height: 50px!important;
+    width: 50px!important;
+    margin-top: 8px!important;
+}
+
+.dynamic-head img{
+    margin-left: 5%;
+    width: 40px;
+    height: 40px;
+}
+
+.dynamic-head a{
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.dynamic-head span{
+    font-size: 16px;
+    color: #616161!important;
+    margin-bottom: 0;
+    margin-left: 50%;
+}
+
+.dynamic-head{
+    margin-bottom: 12px;
+}
+
+.dynamic-content{
+    margin-bottom: 12px;
+    margin-left: 10%;
+}
+
+.dynamic-content span{
+    font-size: 16px;
+    color: #616161!important;
+    margin-bottom: 0;
+}
+
+.dynamic-footer{
+     margin-bottom: 0;
+     margin-left: 75%;
+}
+
+.dynamic-footer i{
+    color: #eeeeee;
+}
+
+.dynamic-footer i{
+    color: #bdbdbd;
+}
+
+.dynamic-footer a{
+    color: #616161;
+    margin-left: 10px;
+}

@@ -1,0 +1,9 @@
+.img{
+    background:url(img.png) no-repeat ;
+}
+.volleyball2{
+    height:400px;width:430px;background-position:0 0;
+}
+.run1{
+    height:400px;width:430px;background-position:-430px 0;
+}
